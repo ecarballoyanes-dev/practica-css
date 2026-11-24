@@ -1,0 +1,57 @@
+/* estilos generales del body*/
+body {
+    font-family: Arial, saans-serif;
+    background-color: #f4f6f9;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+/* selector de id*/
+
+#main-header {
+    background-color: #1e293b;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px;
+}
+
+/*selector de clase: subtitl*/
+
+.subtitol {
+    font-style: italic;
+    color: #cbd5e1;
+}
+
+/*selector de clase: card*/
+
+.card {
+    background-color:#ffffff;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 800px;
+}
+
+/*selector de cclase: alert-box*/
+
+. alert-box {
+    boerder-left: 5px solid #4f4444;
+}
+
+/*selector de clase: btn*/
+
+.btn {
+    background-color: #2553eb;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+/*efecto al pasar el mouse*/
+
+.btn:hover {
+    background-color: #1d4ed8;
+}
